@@ -53,7 +53,7 @@ User must enter model number(1,2,3 or 4) in the command line, else default value
 
 **Threshold**: User should provide a threshold value that lies between 0 and 1, please note score is proportional to therapeutic potential of peptide.
  
-	User must enter a valid threshold value in the command line, else default value will be considered i.e. 0.5.
+User must enter a valid threshold value in the command line, else default value will be considered i.e. 0.5.
 
 
 
