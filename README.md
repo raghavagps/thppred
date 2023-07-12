@@ -48,7 +48,7 @@ python thppred_stand.py file.fasta 1 0.5
 
   iv) Model4 for predicting given input peptide/protein sequence as therapeutic and non-therapeutic peptide/proteins using Hybrid approach, which is the ensemble of Random forest + Motif Score. It combines the scores generated from machine learning (RF), and motif occurence as Hybrid Score, and the prediction is based on Hybrid Score.
   
-  User must enter model number(1,2,3 or 4) in the command line, else default value will be considered i.e. 2.
+User must enter model number(1,2,3 or 4) in the command line, else default value will be considered i.e. 2.
 
 
 **Threshold**: User should provide a threshold value that lies between 0 and 1, please note score is proportional to therapeutic potential of peptide.
