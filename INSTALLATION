@@ -1,0 +1,24 @@
+1. Pre-requisite
+==========
+In order to run this program user should have Python, and the following libraries:
+- scikit-learn
+- Pandas
+- Numpy
+- Bio
+- XGBoost
+- Onnxruntime
+
+2. Download Site
+============
+https://webs.iiitd.edu.in/raghava/thppred/download.php
+https://github.com/raghavagps/thppred
+
+3. Unzip
+
+4. Change dir to standalone_thppred
+
+5. python thppred.py
+
+
+
+
