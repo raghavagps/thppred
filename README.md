@@ -4,6 +4,9 @@ A method for predicting therapeutic and non-therapeutic proteins
 # Introduction
 ThpPred is developed for predicting, designing and scanning therapeutic peptides. More information on ThpPred is available from its web server http://webs.iiitd.edu.in/raghava/thppred. This page provide information about standalone version of ThpPred.
 
+## Dataset.zip
+Contain all the datasets
+
 ## Pip installation
 The pip version of THPpred is also available for easy installation and usage of the tool. The following command is required to install the package 
 ```
