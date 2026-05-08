@@ -89,3 +89,6 @@ xgb_model.onnx      : Model file required for running XGB based Machine-learning
 example.fasta	: Example file contain protein/peptide sequences in FASTA format. User may use this for test run.
 
 # Reference
+
+# Zenodo
+https://doi.org/10.5281/zenodo.20033531
