@@ -89,6 +89,7 @@ xgb_model.onnx      : Model file required for running XGB based Machine-learning
 example.fasta	: Example file contain protein/peptide sequences in FASTA format. User may use this for test run.
 
 # Reference
+S.Jain, S.Gupta, and G. P. S.Raghava, “An Ensemble Method for Predicting and Designing of Druggable Proteins.” PROTEOMICS – Clinical Applications20, no. 3 (2026): e70046. https://doi.org/10.1002/prca.70046
 
 # Zenodo
 https://doi.org/10.5281/zenodo.20033531
